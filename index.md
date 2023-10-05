@@ -34,7 +34,7 @@
 - 이미지  
   <img src="./img/관련이미지.jpg">
 - 동영상
-  [![](./img/그림.png)](https://youtu.be/vYpSoiNdrZw?si=D89tdzBqcdtySNdt)
+  [![](./img/그림.png)](https://youtu.be/J3kPMRA_JYE?si=l33e1PuPjeiJKYj_)
 
 <br><br>
 

@@ -106,3 +106,42 @@
 ## 4. 기술
 
 Unity를 사용해서 제작할 예정이며 저사양의 PC를 가진 사람도 가능하도록 만들 예정입니다. 에셋을 최대한 사용하는 방향으로 제작하며 필요한 경우 직접 그래픽 디자인을 할 예정입니다.
+
+# [구성 요소 분석]
+## 1. 게임 오브젝트 분해
+
+|연번|오브젝트 이름|오브젝트 이미지|
+|:----:|:----:|:----:|
+|1|웨슬리|<img src="./img/축구장.png" width="500">|
+|2|강도|<img src="./img/골대.png" width="500">|
+|3|스캐빈저|<img src="./img/홍길동선수.png" height="300">|
+|4|윌리엄|<img src="./img/골킵.png" height="300">|
+|5|벤|<img src="./img/골킵.png" height="300">|
+|6|하비|<img src="./img/골킵.png" height="300">|
+|7|해리|<img src="./img/골킵.png" height="300">|
+|8|로버트|<img src="./img/골킵.png" height="300">|
+|9|리볼버|<img src="./img/골킵.png" height="300">|
+|10|라이플|<img src="./img/골킵.png" height="300">|
+|11|샷건|<img src="./img/골킵.png" height="300">|
+|12|상자|<img src="./img/골킵.png" height="300">|
+|13|벽|<img src="./img/골킵.png" height="300">|
+|14|울타리|<img src="./img/골킵.png" height="300">|
+|15|기둥|<img src="./img/골킵.png" height="300">|
+|16|오크통|<img src="./img/골킵.png" height="300">|
+|17|체력바|<img src="./img/골킵.png" height="300">|
+|18|현재 무기 상황|<img src="./img/골킵.png" height="300">|
+|19|스킬UI|<img src="./img/골킵.png" height="300">|
+|20|미니맵|<img src="./img/골킵.png" height="300">|
+|21|스테이지 표시|<img src="./img/골킵.png" height="300">|
+
+## 2. 파라미터(속성) 뽑아 보기
+
+## 3. 행동 뽑아 보기
+
+## 4. 게임 오브젝트 분해
+
+## 5. 게임 오브젝트 분해
+
+## 6. 게임 오브젝트 분해
+
+

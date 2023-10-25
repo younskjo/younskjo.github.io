@@ -315,10 +315,10 @@ Unity를 사용해서 제작할 예정이며 저사양의 PC를 가진 사람도
 <img src="./img/키보드 이벤트에 대한 흐름도.png">  
 
 ## 4. 용어정리 
-<img src="./img/용어 정리.png">  
+<img src="./img/용어정리.png">  
 
 # 스토리보드  
-<img src="./img/스토리 보드.png">  
+<img src="./img/스토리보드.png">  
 
 
 
